@@ -50,7 +50,7 @@ body {
 }
 
 .container {
-	font-family: Fast In My Car;
+	font-family: Fast In My Car.ttf;
 	font-size: 30px;
 	height: 20vh;
 	color: black;
@@ -69,7 +69,7 @@ h1 { /*  PRESENTING */
 
 h2 { /* LUNGS */
 	text-align: center;
-	font-family: Fast In My Car;
+	font-family: Fast In My Car.ttf;
 	font-size: 500px;
 	font-weight: bold;
 	color: black;
@@ -101,7 +101,7 @@ section {
 }
 h3 { /* SLAVE LABOUR */
 	text-align: center;
-	font-family: Fast In My Car;
+	font-family: Fast In My Car.ttf;
 	font-size: 100px;
 	color: black;
 	padding: 0em;
@@ -112,7 +112,7 @@ h3 { /* SLAVE LABOUR */
 }
 h4 { /* by Graham Harwood and Matsuko Yokokiji */
 	text-align: center;
-	font-family: Fast In My Car;
+	font-family: Fast In My Car.ttf;
 	font-size: 15px;
 	color: black;
 
@@ -168,7 +168,7 @@ h7 {
 
 
 .item2 {
-	font-family: Fast In My Car;
+	font-family: Fast In My Car.ttf;
 	font-size: 50px;
 	writing-mode: vertical-lr;
 	text-orientation: upright;
@@ -280,7 +280,7 @@ p2 {
 }
 
 p3 {
-	font-family: Fast In My Car;
+	font-family: Fast In My Car.ttf;
 	font-size: 20px;
 	color: black;
 	padding-left: 300px;
