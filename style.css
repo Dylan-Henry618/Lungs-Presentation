@@ -237,7 +237,7 @@ h6 { /* by Graham Harwood and Matsuko Yokokiji */
 .second {
 	display: flex;
 	flex-direction: row;
-	height: 50vh;
+	height: 70vh;
 	color: black;
 	justify-content: space-around;
 	flex-wrap: nowrap;
