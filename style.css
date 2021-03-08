@@ -247,6 +247,15 @@ h6 { /* by Graham Harwood and Matsuko Yokokiji */
 	flex-wrap: nowrap;
 }
 
+.third {
+	display: flex;
+	flex-direction: row;
+	height: 50vh;
+	color: black;
+	justify-content: space-around;
+	flex-wrap: nowrap;
+}
+
 
 p2 {
 	font-family: Helvetica;
