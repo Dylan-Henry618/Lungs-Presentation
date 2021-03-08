@@ -132,10 +132,11 @@ h4 { /* by Graham Harwood and Matsuko Yokokiji */
 
 h5 {
 	font-family: Akira Expanded;
-	font-size: 30px
+	font-size: 30px;
 	writing-mode: vertical-lr;
 	text-orientation: upright;
-	
+	padding-left: 100px;
+	padding-right: 0px;
 }
 
 .container2 { /* container for "ABOUT THE ARTIST" */
