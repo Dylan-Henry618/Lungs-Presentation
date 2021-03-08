@@ -80,7 +80,7 @@ h2 { /* LUNGS */
 }
 
 section {
-	background-image: url(hitler.png);
+	background-image: url("Images/hitler.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-clip: rect(0px, 0px, 150px, 0px);
