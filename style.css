@@ -4,7 +4,8 @@ body {
 }
 
 .container { /* container for names */
-	font-family: url(Fast In My Car.ttf);
+	font-family: Fast In My Car;
+	src: url(Fast In My Car.ttf);
 	font-size: 30px;
 	height: 20vh;
 	color: black;
@@ -83,7 +84,8 @@ h1 { /*  PRESENTING */
 
 h2 { /* LUNGS */
 	text-align: center;
-	font-family: Fast In My Car.ttf;
+	font-family: Fast In My Car;
+	src: url(Fast In My Car.ttf);
 	font-size: 500px;
 	font-weight: bold;
 	color: black;
@@ -114,7 +116,8 @@ section {
 
 h3 { /* SLAVE LABOUR */
 	text-align: center;
-	font-family: Fast In My Car.ttf;
+	font-family: Fast In My Car;
+	src: url(Fast In My Car.ttf);
 	font-size: 100px;
 	color: black;
 	padding: 0em;
@@ -182,7 +185,8 @@ h5 {
 
 
 .item2 { /* ALL THE TEXT */
-	font-family: Fast In My Car.ttf;
+	font-family: Fast In My Car;
+	src: url(Fast In My Car.ttf);
 	font-size: 50px;
 	writing-mode: vertical-lr;
 	text-orientation: upright;
