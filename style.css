@@ -237,7 +237,7 @@ h6 { /* by Graham Harwood and Matsuko Yokokiji */
 .second {
 	display: flex;
 	flex-direction: row;
-	height: 100vh;
+	height: 50vh;
 	color: black;
 	justify-content: space-around;
 	flex-wrap: nowrap;
@@ -254,7 +254,7 @@ p2 {
 
 p3 {
 	font-family: Helvetica;
-	font-size: 20px;
+	font-size: 30px;
 	color: black;
 	padding-left: 300px;
 	padding-right: 100px;
