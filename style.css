@@ -343,6 +343,23 @@ HeaderY{
   font-size: 200%;
 }
 
+.Ugly1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 200%;
+}
+
+.Ugly2 {
+  display: flex;
+  flex-direction: row-reverse;
+  padding-top: 20px;
+  font-size: 200%;
+}
+
+
 .button {
   background-color: purple;
   border: none;
